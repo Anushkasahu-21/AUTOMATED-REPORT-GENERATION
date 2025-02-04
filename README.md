@@ -50,5 +50,8 @@ Visualizations
 Save the PDF
 
 Clean up temporary files
-    
-
+**output**:
+using the below dataset
+[data.csv](https://github.com/user-attachments/files/18653621/data.csv)
+ a output pdf will be generated which is the output
+using 
